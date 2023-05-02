@@ -1,0 +1,5 @@
+peixe,fish
+bola,ball
+gato,cat
+livro,book
+mesa,table
